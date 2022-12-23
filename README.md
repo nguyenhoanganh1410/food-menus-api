@@ -3,7 +3,7 @@
 APIs free with nearly 700 dishes and 15 menus. You can interact with them simply!
 <br />
 
-#### **Demo:** https://food-g-app.web.app/shop/best-foods
+#### **Demo:** https://food-menus-api.vercel.app/bbqs
 
 <br />
 
